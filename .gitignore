@@ -30,6 +30,8 @@ hs_err_pid*
 .idea/encodings.xml
 .idea/project-template.xml
 
+# Additional Files
 Wrongfile.txt
 Laboratorio1-Github.iml
-
+.project
+.classpath
